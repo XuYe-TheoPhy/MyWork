@@ -8,4 +8,4 @@
 
 [3] X. Ye, C. H. Wang and S. W. Wei, <font color="red">Extracting spinning wormhole energy via magnetic reconnection</font>, JCAP 12, 030 (2023), [arXiv:2306.12097[gr-qc]](https://arxiv.org/abs/2306.12097).
 
-### phD time
+### PhD time
